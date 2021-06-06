@@ -19,7 +19,7 @@ In the above format replace user with your username on github, repo with reposit
 You can use this CDN service for hosted anywhere like npmjs.com or even on your wordpress sites using their plugin.
 Please visit the website for more information and to know how it works.
 
-The Data_SDOG_Daily_1.js file has only javascript code and symtax. It does not have html tags like <script>. If we put html tags or any syntax which is not javascript, the link to CDN does not work.
+The Data_SDOG_Daily_1.js file has only javascript code and syntax. It does not have html tags like <script>. If we put html tags or any syntax which is not javascript, the link to CDN does not work.
 
 OTHER LINKS TO READ:
 https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github
