@@ -13,7 +13,10 @@ Please visit the website for more information and to know how it works.
 
 FOR OUR SPECFIC CASE:
 
-https://cdn.jsdelivr.net/gh/rguptaaccountcontrol/CDN_Data/Data_SDOG_Daily_1.js
+https://cdn.jsdelivr.net/gh/gazingstocks/CDN_Data/Data_SDOG_Daily_1.js
+<p>the old url was</p>
+https://cdn.jsdelivr.net/gh/rguptaaccountcontrol/CDN_Data/Data_SDOG_Daily_1.js 
+<p>
 
 In the above format replace user with your username on github, repo with repository name and version with the version of your repository
 You can use this CDN service for hosted anywhere like npmjs.com or even on your wordpress sites using their plugin.
